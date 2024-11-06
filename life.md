@@ -25,4 +25,25 @@ author_profile: true
 <div style="display: flex; justify-content: space-between;">
   <figure style="width: 48%; text-align: center;">
     <img src="path/to/your/first-baking-image.jpg" alt="Baking 1" style="width: 100%; height: auto;">
-    <figca
+    <figcaption>Homemade Bread Fresh Out of the Oven</figcaption>
+  </figure>
+  <figure style="width: 48%; text-align: center;">
+    <img src="path/to/your/second-baking-image.jpg" alt="Baking 2" style="width: 100%; height: auto;">
+    <figcaption>Delicious Cupcakes Ready to Serve</figcaption>
+  </figure>
+</div>
+
+---
+
+# I Love Cats
+
+<div style="display: flex; justify-content: space-between;">
+  <figure style="width: 48%; text-align: center;">
+    <img src="path/to/your/first-cat-image.jpg" alt="Cat 1" style="width: 100%; height: auto;">
+    <figcaption>My Adorable Kitten Relaxing</figcaption>
+  </figure>
+  <figure style="width: 48%; text-align: center;">
+    <img src="path/to/your/second-cat-image.jpg" alt="Cat 2" style="width: 100%; height: auto;">
+    <figcaption>The Playful Side of My Cat</figcaption>
+  </figure>
+</div>

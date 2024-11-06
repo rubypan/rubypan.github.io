@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Substantive:** Big Data Analytics, AI, User Generated Content, FinTech, Customer Analytics, Social Networks, E-commerce, Digital Transformation, Digital Platforms
+
 **Methodological:** Machine Learning, Predictive Modeling, Deep/Graph Neural Networks, Natural Language Processing, Bayesian Methods, Applied Econometrics, Casual Inference
 
 # Research Experience

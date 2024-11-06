@@ -41,7 +41,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -50,7 +50,7 @@ author:
   keybase          : # Username
   Instagram        : "ruby.pyc"
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/ruby-pan/"
+  linkedin         : "ruby-pan"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -207,7 +207,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -247,10 +247,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true

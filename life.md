@@ -5,8 +5,6 @@ permalink: /life/
 author_profile: true
 ---
 
-{% include base_path %}
-
 # I Love Oil Painting
 
 <div style="display: flex; justify-content: space-between;">

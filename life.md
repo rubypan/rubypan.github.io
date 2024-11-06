@@ -5,7 +5,7 @@ permalink: /life/
 author_profile: true
 ---
 
-# I Love Oil Painting
+I Love Oil Painting
 
 <div style="display: flex; justify-content: space-between;">
   <figure style="width: 48%; text-align: center;">
@@ -20,7 +20,7 @@ author_profile: true
 
 ---
 
-# I Love Baking and Cooking
+I Love Baking and Cooking
 
 <div style="display: flex; justify-content: space-between;">
   <figure style="width: 48%; text-align: center;">
@@ -35,7 +35,7 @@ author_profile: true
 
 ---
 
-# I Love Cats
+I Love Cats
 
 <div style="display: flex; justify-content: space-between;">
   <figure style="width: 48%; text-align: center;">

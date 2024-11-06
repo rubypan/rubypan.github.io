@@ -17,7 +17,7 @@ I am actively looking for research collaborations. Feel free to reach out to me 
 
 - MS in Marketing Science, Columbia Business School, 2024
 - BBA in Management Information Systems, McCombs School of Business, University of Texas at Austin, 2023
-- BSA in Mathematics, College of Natural Sciences, University of Texas at Austin, 2019
+- BSA in Mathematics, College of Natural Sciences, University of Texas at Austin, 2023
 
 # Work Experience
 

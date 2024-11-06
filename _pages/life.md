@@ -5,8 +5,6 @@ permalink: /life/
 author_profile: true
 ---
 
-{% include base_path %}
-
 I Love Oil Painting
 
 ![Oil Painting 1](images/draw1.jpg)

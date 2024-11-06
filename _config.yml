@@ -2,7 +2,7 @@
 locale                   : "en-US"
 title                    : "Yichen Pan"
 title_separator          : "-"
-name                     : &name "Yichen Pan"
+name                     : &name "Yichen (Ruby) Pan"
 description              : &description "personal description"
 url                      : https://rubypan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

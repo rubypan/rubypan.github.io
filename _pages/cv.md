@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MS in Marketing Science, Columbia Business School, 2024
+* BBA in Management Information Systems, University of Texas at Austin, 2023
+* BSA in Mathematics, University of Texas at Austin, 2023
 
 Work experience
 ======

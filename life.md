@@ -50,7 +50,7 @@ For the Love of Cats and All Things Adorable
 <div style="display: flex; justify-content: space-between;">
   <figure style="width: 28%; text-align: center;">
     <img src="/images/cat1.jpg" alt="Cat 1" style="width: 100%; height: auto;">
-    <figcaption>Hands down, the best roommate I’ve ever had!</figcaption>
+    <figcaption>The best roommate I’ve ever had!</figcaption>
   </figure>
   <figure style="width: 28%; text-align: center;">
     <img src="/images/cat2.jpg" alt="Cat 2" style="width: 100%; height: auto;">
@@ -58,6 +58,6 @@ For the Love of Cats and All Things Adorable
   </figure>
   <figure style="width: 28%; text-align: center;">
     <img src="/images/cat3.jpg" alt="Cat 3" style="width: 100%; height: auto;">
-    <figcaption>Can’t wait to adopt a real cat once I’ve settled down!</figcaption>
+    <figcaption>Can’t wait to adopt a cat once I’ve settled down!</figcaption>
   </figure>
 </div>

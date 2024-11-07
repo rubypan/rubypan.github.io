@@ -8,7 +8,7 @@ Outside of academics, I love staying active with pilates, running, hiking, kayak
 
 ---
 
-My Artistic Exploration
+**My Artistic Exploration**
 <div style="display: flex; justify-content: space-between;">
   <figure style="width: 28%; text-align: center;">
     <img src="/images/draw1.jpg" alt="Oil Painting 1" style="width: 100%; height: auto;">
@@ -26,7 +26,7 @@ My Artistic Exploration
 
 ---
 
-My Culinary Creations
+**My Culinary Creations**
 
 <div style="display: flex; justify-content: space-between;">
   <figure style="width: 28%; text-align: center;">
@@ -45,7 +45,7 @@ My Culinary Creations
 
 ---
 
-For the Love of Cats and All Things Adorable
+**For the Love of Cats and All Things Adorable**
 
 <div style="display: flex; justify-content: space-between;">
   <figure style="width: 28%; text-align: center;">

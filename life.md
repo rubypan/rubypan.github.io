@@ -26,7 +26,7 @@ My Artistic Exploration
 
 ---
 
-From Oven to Table: My Culinary Creations
+My Culinary Creations
 
 <div style="display: flex; justify-content: space-between;">
   <figure style="width: 28%; text-align: center;">

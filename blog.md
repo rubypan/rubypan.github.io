@@ -17,4 +17,4 @@ author_profile: true
 
 - May 2023: I joined **ByteDance** as a Data Science Intern, working on monetization strategy.
 
-- May 2023: I received my BBA in Management Information Systems and BSA in Mathematics from **Univeristy of Texas at Austin**.
+- May 2023: I received my BBA in Management Information Systems and BSA in Mathematics from **the Univeristy of Texas at Austin**.

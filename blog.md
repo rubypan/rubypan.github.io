@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/77d7802c-ac12-49ce-9227-d0b1ade1d881)---
+---
 layout: archive
 title: "Blog & News"
 permalink: /blog/

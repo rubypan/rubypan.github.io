@@ -4,7 +4,7 @@ title: "Life"
 permalink: /life/
 author_profile: true
 ---
-Outside of academics, I love staying active with Pilates and jogging (though I had a tough year recovering from a serious knee injury that had me using crutches and canes for almost one year). I also enjoy creating oil paintings, building long Spotify playlists, and exploring new places. I’m a total foodie, always experimenting with new desserts and recipes, and I never skip my daily bubble tea and some good treats!
+Outside of academics, I love staying active with pilates, running, hiking, kayaking, etc (though I had a tough year recovering from a serious knee injury that had me using crutches and canes for almost one year). I also enjoy creating oil paintings, building long Spotify playlists, and exploring new places. I’m a total foodie, always experimenting with new desserts and recipes, and I never skip my daily bubble tea and some good treats!
 
 ---
 

@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+- Jan 2025: Submitted all the PhD applications!
+
 - Nov 2024: Website version 1 published!
 
 - May 2024: Successfully completed my MS in Marketing Science at **Columbia Business School**.

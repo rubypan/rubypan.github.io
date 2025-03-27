@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+- Mar 2025: Thrilled to share that I will join the Business Technologies group at CMU Tepper this fall as a PhD student!
+
 - Jan 2025: Submitted all the PhD applications!
 
 - Nov 2024: Website version 1 published!

@@ -1,1 +1,0 @@
-# Yichen Pan's website\n\nA standalone static HTML/CSS/JS website published on GitHub Pages. No Jekyll, Ruby, or AcademicPages dependency.\n\nEdit index.html, styles.css, and script.js to update the site.\n

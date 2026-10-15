@@ -3,10 +3,7 @@
 /* Tabbed navigation: show only the selected content panel. */
 [data-tab-panel][hidden]{display:none!important}section[data-tab-panel]{margin-top:0!important;min-height:48vh}.intro[data-tab-panel]{margin-bottom:0}.topbar nav a[data-tab-link][aria-current="page"]{color:var(--text);font-weight:650;text-decoration:underline;text-underline-offset:7px;text-decoration-thickness:1px}
 
-/* Accessible light/dark theme: system default, optional user override. */
+/* Follow the system light/dark appearance automatically. */
 :root{--background:#fff;--nav-text:#555;--secondary-text:#555;--post-border:#f2f2f2;--footer-text:#888;--subtle:#aaa; color-scheme:light}
-@media(prefers-color-scheme:dark){:root:not([data-theme]){--background:#17191b;--text:#e9e9e8;--muted:#b2b6ba;--border:#3d4145;--link:#98c5f1;--nav-text:#c5c8ca;--secondary-text:#b2b6ba;--post-border:#36393c;--footer-text:#a7aaad;--subtle:#888e94;color-scheme:dark}}
-:root[data-theme="dark"]{--background:#17191b;--text:#e9e9e8;--muted:#b2b6ba;--border:#3d4145;--link:#98c5f1;--nav-text:#c5c8ca;--secondary-text:#b2b6ba;--post-border:#36393c;--footer-text:#a7aaad;--subtle:#888e94;color-scheme:dark}
+@media(prefers-color-scheme:dark){:root{--background:#17191b;--text:#e9e9e8;--muted:#b2b6ba;--border:#3d4145;--link:#98c5f1;--nav-text:#c5c8ca;--secondary-text:#b2b6ba;--post-border:#36393c;--footer-text:#a7aaad;--subtle:#888e94;color-scheme:dark}}
 body{background:var(--background)}.topbar nav a{color:var(--nav-text)}.two-col p{color:var(--secondary-text)}.post{border-color:var(--post-border)}footer{color:var(--footer-text)}.contact span{color:var(--subtle)}
-.theme-toggle{display:inline-flex;align-items:center;justify-content:center;background:transparent;color:var(--text);border:1px solid var(--border);width:34px;height:34px;border-radius:50%;cursor:pointer;flex-shrink:0;font-size:19px;line-height:1}.theme-toggle:hover{background:var(--border)}.theme-toggle:focus-visible{outline:2px solid var(--link);outline-offset:3px}
-@media(max-width:700px){.theme-toggle{margin-left:auto;margin-right:12px}.menu-toggle{order:2}.topbar nav{order:3}}

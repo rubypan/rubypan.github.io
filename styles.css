@@ -9,5 +9,5 @@
 body{background:var(--background)}.topbar nav a{color:var(--nav-text)}.two-col p{color:var(--secondary-text)}.post{border-color:var(--post-border)}footer{color:var(--footer-text)}.contact span{color:var(--subtle)}
 
 :root[data-theme="dark"]{--background:#17191b;--text:#e9e9e8;--muted:#b2b6ba;--border:#3d4145;--link:#98c5f1;--nav-text:#c5c8ca;--secondary-text:#b2b6ba;--post-border:#36393c;--footer-text:#a7aaad;--subtle:#888e94;color-scheme:dark}
-.theme-select{font:inherit;font-size:12px;color:var(--text);background:var(--background);border:1px solid var(--border);border-radius:4px;padding:4px 6px;cursor:pointer;flex-shrink:0}.theme-select:focus-visible{outline:2px solid var(--link);outline-offset:3px}
-@media(max-width:700px){.theme-select{margin-left:auto}.menu-toggle{order:2}.topbar nav{order:3}}
+.theme-toggle{display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;padding:0;flex-shrink:0;border:1px solid var(--border);border-radius:50%;background:transparent;color:var(--text);cursor:pointer}.theme-icon{display:flex;align-items:center;justify-content:center}.theme-icon svg{width:17px;height:17px}.theme-toggle:hover{background:var(--border)}.theme-toggle:focus-visible{outline:2px solid var(--link);outline-offset:3px}
+@media(max-width:700px){.theme-toggle{margin-left:auto}.menu-toggle{order:2}.topbar nav{order:3}}
